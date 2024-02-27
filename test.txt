@@ -6,3 +6,7 @@ test Pawel...
 Michał
 Tomek
 Michał - kolejny merge
+test...
+Filip
+Michał - kolejny merge
+Filip - test2
