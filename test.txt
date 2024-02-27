@@ -10,3 +10,4 @@ test...
 Filip
 Michał - kolejny merge
 Filip - test2
+1. Michał - kolejny merge
