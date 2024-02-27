@@ -1,6 +1,11 @@
+<<<<<<< HEAD
 Michał - no dobra zmieniam plik i puszczam merge ponownie.....
 
 Tomek
 Filip
 Michał - kolejny merge
 test Pawel...
+=======
+Michał
+Tomek
+>>>>>>> 8ca8c71 (tomekk)
