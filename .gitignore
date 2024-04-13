@@ -1,0 +1,6 @@
+pass.py 
+*.log
+config/
+node_modules/
+!important.log
+
